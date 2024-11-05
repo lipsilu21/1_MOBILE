@@ -11,5 +11,5 @@
 ### Нажать кнопку "Нажми на меня" на главном экране. Проверить текстовый вывод результата.
 
 # Демонстрация работы
-![Screenshot_20241105_211509](https://github.com/user-attachments/assets/8d617dde-2ae6-4ce8-8f48-1210fca224fb)
+<img src="https://github.com/user-attachments/assets/8d617dde-2ae6-4ce8-8f48-1210fca224fb" width="500">
 ![Screenshot_20241105_211603](https://github.com/user-attachments/assets/06d1b5ea-22d8-4979-b538-5df8ab633391)
