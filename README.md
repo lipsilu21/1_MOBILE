@@ -12,5 +12,6 @@
 
 # Демонстрация работы
 
-![image](https://github.com/user-attachments/assets/cedbb978-0a0f-4915-8c17-bbb3babf4023) ![image](https://github.com/user-attachments/assets/9e94ba3f-d02d-464b-a018-9e487f640f76)
+![Screenshot_20241105_211509](https://github.com/user-attachments/assets/8d617dde-2ae6-4ce8-8f48-1210fca224fb)
 
+![Screenshot_20241105_211603](https://github.com/user-attachments/assets/06d1b5ea-22d8-4979-b538-5df8ab633391)
